@@ -1,1 +1,1 @@
-web: chisel server --reverse --port $PORT
+web: /app/bin/chisel server --reverse
